@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working with Spring / Angular<br><br>🌱 I’m currently learning Software Engineering Best Practices<br><br>👯 I’m looking to collaborate on projects based on the cloud<br><br>📫 How to reach me mousrij.ensa@uhp.ac.ma</p>
+<p align="left"><br>🌱 I’m currently learning Software Engineering Best Practices<br><br>👯 I’m looking to collaborate on projects based on the cloud<br><br>📫 How to reach me mousrij.ensa@uhp.ac.ma</p>
 
 ###
 
