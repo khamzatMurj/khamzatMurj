@@ -22,7 +22,7 @@
 <h4 align="center"> <a href="https://khamzatMurj.github.io/Portfolioo/">Portfolio</a> </h4>
 ###
 
-<h3 align="center">Software Engineer skilled in solving complex problems and creating innovative web solutions.</h3>
+<h3 align="center">Software Engineer Student skilled in solving complex problems and creating innovative web solutions.</h3>
 
 ###
 
